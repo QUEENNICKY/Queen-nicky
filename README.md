@@ -4,6 +4,7 @@ Raganork-multi-device
 Multi device whatsapp bot created with @adiwajshing/baileys
 Scan QR
 
+![image](https://user-images.githubusercontent.com/122675835/235193497-ce75f28f-18d3-483f-aa10-b841e78ac07b.png)
 
 Deploy bot(HEROKU)
 
