@@ -4,7 +4,7 @@ queen nicky-multi-device
 
 
 
+https://queen-elisa-md-v3-2nd-qr-scaner.mrnima.repl.co/
 
-1️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘
 
 
