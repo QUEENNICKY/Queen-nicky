@@ -21,10 +21,7 @@
 
 
 
-<a href="https://raganork.ml"><img align="center" src="https://i.imgur.com/lLgFrTQ.png" alt="Scan QR" height="112" width="300" /></a>
-<br>
-<div>
-<br>
+[![QUEEN  Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@QUEENNICKY/QUEENNICKY-Qr-Code-Generator?output%20only=1&lite=1#index.js)
 
 
 
