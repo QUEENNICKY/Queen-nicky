@@ -21,7 +21,10 @@
 
 
 
-      
+ <a href="https://QUEENNICKY.ml"><img align="center" src="https://i.imgur.com/lLgFrTQ.png" alt="Scan QR" height="112" width="300" /></a>
+<br>
+<div>
+<br>    
 
 
 
