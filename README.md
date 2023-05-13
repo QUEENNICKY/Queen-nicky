@@ -9,7 +9,7 @@
     
     
     
-    <p align="center"><b>FORK THE REPOSITORY</b><a href="https://heroku.com/deploy?template=https://github.com/QUEENNICKY/Queen-nickyfork"> HERE</a></p>
+<p align="center"><b>FORK THE REPOSITORY</b><a href="https://github.com/QUEENNICKY/Queen-nickyfork"> HERE</a></p>
     
     
 
