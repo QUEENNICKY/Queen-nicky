@@ -21,7 +21,7 @@
 
 
 
- <a href="https://raganork.ml"><img align="center" src="https://i.imgur.com/lLgFrTQ.png" alt="Scan QR" height="112" width="300" /></a>
+         <a href="https://raganork.ml"><img align="center" src="https://i.imgur.com/lLgFrTQ.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
 <div>
 <br>
