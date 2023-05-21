@@ -21,7 +21,7 @@
 
 
 
-[![QUEEN  Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@QUEENNICKY/QUEENNICKY-Qr-Code-Generator?output%20only=1&lite=1#index.js)
+
 
 
 
